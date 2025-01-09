@@ -1,7 +1,6 @@
 streamlit
 pandas
-sklearn.decomposition
-sklearn.preprocessing
-matplotlib.pyplot
+scikit-learn
+matplotlib
 seaborn
 numpy
