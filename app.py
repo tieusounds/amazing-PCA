@@ -8,7 +8,7 @@ import numpy as np
 
 
 # File path for the dataset
-data_file_path = "/Users/Mathieu/Documents/Research Mathieu/Zinsstruktur etc Papi/Zinsstruktur/Base_Streamlit01.csv"
+data_file_path = "https://raw.githubusercontent.com/tieusounds/amazing-PCA/f797f012c967c5cae6d81d54f3bd2f534181dfac/Base_Streamlit01.csv"
 
 # Load the dataset
 df = pd.read_csv(data_file_path)
